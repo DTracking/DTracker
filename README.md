@@ -1,3 +1,3 @@
-# CVAM(Custemor Vendor Automatic Management)
+# CVAM(Customer Vendor Automatic Management)
 
 
