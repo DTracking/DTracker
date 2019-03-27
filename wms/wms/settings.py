@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'cvam.urls'
+ROOT_URLCONF = 'wms.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'cvam.wsgi.application'
+WSGI_APPLICATION = 'wms.wsgi.application'
 
 
 # Database
